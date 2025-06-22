@@ -2,7 +2,7 @@
 
 This is a terminal-based implementation of the classic Blackjack card game written in Python. The player plays against a computer dealer following the standard rules of Blackjack.
 
-##Features
+## Features
 
 - Card dealing using a standard deck (with 11 representing Ace and 10 used for Jack, Queen, and King).
 - Automatic detection of Blackjack (Ace + 10 as first two cards).
